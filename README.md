@@ -30,7 +30,7 @@ Open terminal:
 
 ```sh
 # Clone this repo
-git clone https://github.com/osvaldokalvaitir/nodejs-saas
+git clone https://github.com/vencake/nodejs-saas
 
 # Entry in folder
 cd nodejs-saas
