@@ -17,10 +17,6 @@
 
   <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-saas.svg?color=00A83A">
 
-  <a href="https://kalvaitir.com/">
-    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
 </p>
 
@@ -60,7 +56,3 @@ Click to learn more about the tools used: [Insomnia](https://github.com/osvaldok
 This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
 ---
-
-<p align="center">
-Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
-</p>
